@@ -14,7 +14,7 @@ Original Source: https://gist.github.com/adeekshith/cd4c95a064977cdc6c50
 
 `git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"`
 
-## To Make Sublime Text 2/3 (Other Platforms)
+## To Make Sublime Text 2/3 The Default Editor for Git (Other Platforms)
 
 http://stackoverflow.com/questions/8951275/how-can-i-make-sublime-text-the-default-editor-for-git
 
